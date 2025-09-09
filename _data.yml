@@ -1,0 +1,15 @@
+lang: en
+
+home:
+  welcome: Hello, I'm getstate! 
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: /home/getstate
+  description: Turing tarpit surveyor
+  title: "=title"
+  image: "=image"
+  lang: en
